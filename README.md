@@ -39,5 +39,5 @@ Built With:
 **Playwright** - End-to-end testing framework.
 **Node.js** - JavaScript runtime.
 
-Authors:
+Author:
 Johnny Martinez
