@@ -15,7 +15,7 @@ This project contains automated end-to-end tests for an e-commerce website (Sauc
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/johnnalm/ecomTestAutomation
 ```
 2. Install dependencies:
 ```bash
